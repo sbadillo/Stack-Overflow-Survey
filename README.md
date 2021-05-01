@@ -18,7 +18,7 @@ Following the CRISP-DM process, we define and adress three simple questions
 2. How is country of residence related to job satisfaction or salary ?
 3. Which job types or fields are better paid ?
 
-Insights are then published in [this article](https://sbadillow.medium.com/what-developers-are-doing-earning-worldwide-e317a4117c1e). 
+Insights are published in [this article](https://sbadillow.medium.com/what-developers-are-doing-earning-worldwide-e317a4117c1e). 
 
 ## The CRISP-DM Process (Cross Industry Process for Data Mining).
 * Business Understanding. Understand the problem. The question.
