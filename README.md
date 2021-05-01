@@ -2,7 +2,7 @@
 
 A rather quick insight into the results of Stack Overflow's annual surveys for 2019 and 2020. 
 
-We use this exemple to go throught the basic stages of analysis 
+We use this exemple to go throught the basic stages of analysis:
 
 * Prepare data:
     * Gather necessary data to answer your questions
@@ -20,6 +20,8 @@ Following the CRISP-DM process, we define and adress three simple questions
 
 Insights are published in [this article](https://sbadillow.medium.com/what-developers-are-doing-earning-worldwide-e317a4117c1e). 
 
+Stack Overflow's public data results and more information can be found [here](https://insights.stackoverflow.com/survey).
+
 ## The CRISP-DM Process (Cross Industry Process for Data Mining).
 * Business Understanding. Understand the problem. The question.
 * Data Understanding. What do I need to answer my question. This might be a hard question to answer which is why companies tend to collect all data they can and then try to find the answer.
@@ -28,10 +30,10 @@ Insights are published in [this article](https://sbadillow.medium.com/what-devel
 * Evaluation.
 
 
-
 ## Files :
-- datasets/oecd_avgwages2019.csv and oecd_avgwages2019.csv : both average and minimum wages for OECD countries. Collected from reported values, and updated in 2020. 
-- datasets/stackoverflow/* : contains Stack Overflow's public data results and schemas for 2017 to 2020. More information can be found [here](https://insights.stackoverflow.com/survey).
-- charts*.png : images used in in the communication.
-- README.md
-- Stack Overflow 2017 Survey 18-20.ipynb : analytical run.
+
+* datasets/oecd_avgwages2019.csv and oecd_avgwages2019.csv : both average and minimum wages for OECD countries. Collected from reported values, and updated in 2020. 
+* charts*.png : images used in in the communication.
+* README.md
+* Stack Overflow 2017 Survey 18-20.ipynb : analytical run.
+
